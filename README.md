@@ -12,6 +12,7 @@ The key steps of the project:
 * Time features engineering
 * Dataset lookup & visual analysis
 * Prediction tests using N-fold time series cross-validation (expanding & sliding window) (WIP)
-* Application of different error metrics & statistical tests in order to assure the quality of the forecasts (WIP)
+* Statistical tests to determine normality, stationarity, autocorrelation of residuals and to compare predictive abilities of the models (WIP)
+* Application of different error metrics in order to compare the quality of the forecasts (WIP)
 
 
