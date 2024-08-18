@@ -4,6 +4,8 @@ The project for forecasting Russian day-ahead wholesale electricity market price
 
 Attempt to use different (autoregressive, machine learning and deep learning) algorithms in order to accurately predict the future hourly values of electricity price in the 2nd price zone of Russian wholesale day-ahead electricity market.
 
+In a broad sense this project allows to perform forecasts using any time series datasets.
+
 The data is provided by the [administrator of the trading system (rus. АО «АТС»)](https://www.atsenergo.ru/results/rsv/index?zone=2)
 
 The key steps of the project:
