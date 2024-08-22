@@ -13,8 +13,8 @@ The key steps of the project:
 * Dataset preprocessing: time features engineering & hourly data format generation
 * Dataset lookup & visual analysis
 * Conduction of statistical tests in order to determine normality, stationarity & autocorrelation of the dataset and the forecasts residuals
-* (WIP) Statistical comparison of models' predictive abilities (Diebold-Mariano test)
-* (WIP) Prediction tests using different types of time series cross-validation (expanding & sliding window approaches, etc.)
-* (WIP) Application of different error metrics in order to compare the forecasts quality
+* Statistical comparison of models' predictive abilities (Diebold-Mariano test)
+* Prediction tests using different types of time series cross-validation (expanding & sliding window approaches, etc.)
+* Application of different error metrics in order to compare the forecasts quality
 
 
