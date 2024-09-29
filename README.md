@@ -1,6 +1,6 @@
 # Electricity-Day-Ahead-Price-Forecasts
 
-The project for forecasting Russian day-ahead wholesale electricity market price.
+The comparative framework for forecasting day-ahead wholesale electricity market price (using Russian market as an example).
 
 Attempt to use different (regression, machine learning, deep learning, etc.) algorithms in order to accurately predict the future hourly values of electricity price in the 2nd price zone of Russian wholesale day-ahead electricity market.
 
