@@ -17,4 +17,9 @@ The key steps of the project:
 * Prediction tests using different types of time series cross-validation (expanding & sliding window approaches, etc.)
 * Application of different error metrics in order to compare the forecasts quality
 
+## Related Publications
 
+This project is based on the following paper. Please consider citing it if you use this code.
+
+**[Forecasting Day-Ahead Electricity Prices using Technical Prediction Methods ](https://doi.org/10.25729/esr.2024.02.0004)**  
+V.A. Rozhkov, A.G. Batuchtin, Energy Systems Research, 2024.
